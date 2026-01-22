@@ -21,7 +21,5 @@ int main(){
     printf("Volume: %2.lfcm\n", volume);
 
 
-
-
     return 0;
 }
